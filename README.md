@@ -1,5 +1,5 @@
 # XOX Game: Minimax Algorithm Implementation
-### MSc Artificial Intelligence Project
+### MSc Data Science & Engineering · Artificial Intelligence Course · Project 2/2: Game Construction
 A two-player strategic game implementation in C featuring an optimal AI opponent using the Minimax algorithm on a 4×3 grid with unique XOX/OXO triad-based victory conditions.
 
 ## Overview
@@ -81,9 +81,6 @@ Enter your move (row column):
 ## Author
 
 **Konstantinos Vardakas**  
-
-## Course Information
-Artificial Intelligence - Project 2: Game Construction
 
 ---
 
